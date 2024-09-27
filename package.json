@@ -1,16 +1,15 @@
 {
-  "name": "assignment-1-job-search-app-mult4ni",
+  "name": "assignment-1-job-search-app-mult4ni-main",
   "version": "1.0.0",
-  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XXfHr5ea)\r # Assignment 1 - Job Search App",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XXfHr5ea) # Assignment 1 - Job Search App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "./backend/backend-express-server.mjs"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "parcel": "^2.12.0",
-    "react-bootstrap": "^2.10.5"
+    "parcel": "^2.12.0"
   }
 }
